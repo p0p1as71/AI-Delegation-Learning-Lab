@@ -1,0 +1,23 @@
+{
+  "name": "ai-delegation-learning-lab",
+  "version": "1.0.0",
+  "description": "AMO Research Series — Lab 3: Structural governance of authority delegation in autonomous systems",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/delegation.test.js"
+  },
+  "keywords": [
+    "amo",
+    "governance",
+    "delegation",
+    "capability",
+    "authority",
+    "autonomous-systems"
+  ],
+  "author": "Ricardo Rubio Albacete",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
